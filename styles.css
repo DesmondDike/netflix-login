@@ -1,0 +1,81 @@
+html{
+   
+    max-width: 
+    max-height: 
+    
+}
+
+
+body{
+    background-image: url(dustin\ giphy.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 0 solid gray;
+    text-align: center;
+    margin-top: 250px;
+    
+  
+    
+}
+
+h1{
+    color: red;
+    margin-bottom: 120px;
+    font-size: 80px;
+    text-shadow: -2px 2px black;
+}
+
+input{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: start;
+    margin-bottom: 15px;
+    line-height: 20px;
+    padding: 10px 20px;
+    border: 0 none white;
+    border-radius: 25px;
+    width: 150px;
+    
+    
+    
+}
+#reset{
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: right;
+    font-size: small;
+}
+
+a{
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+
+button{
+    background-color: red;
+    color: white;
+    width: 190px;
+    line-height: 20px;
+    padding: 5px 70px;
+    border: 0px none red;
+    border-radius: 25px;
+}
+
+#footer{
+    color: white;
+    margin-bottom: 10px;
+}
+
+h6{
+   
+    font-size: smaller;
+    color: brown;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+}
